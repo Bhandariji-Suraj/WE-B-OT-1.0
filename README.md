@@ -17,9 +17,15 @@ Styled with CSS for a user-friendly experience.
 
 ## Prerequisites
 Python 3.8 or later
+
 Node.js
+
 Flask
+
 Pandas
+
 Sentence Transformers (all-MiniLM-L6-v2)
+
 JavaScript-compatible browser
+
 CSS for styling
